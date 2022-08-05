@@ -42,5 +42,11 @@ install Ubuntu terminal environment from the Microsoft Store website or app <htt
 
 `python3 -m venv venv`
 (Create a virtual environment)
+  
+ `source venv/bin/activate`
+<br>
+(Activate the virtual environment)
 
-`source venv/bin/activate`
+`pip install -r requirements.txt` 
+<br>
+(Install the dependencies)
