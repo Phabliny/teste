@@ -1,4 +1,4 @@
-=
+***
 # Settings for the Windows 
 If your operating system is Windows, you will need to use WSL (Windows Subsystem for Linux).
 
